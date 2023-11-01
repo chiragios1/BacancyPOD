@@ -1,0 +1,16 @@
+PODS:
+  - bacancyPOD (0.1.0)
+
+DEPENDENCIES:
+  - bacancyPOD (from `../`)
+
+EXTERNAL SOURCES:
+  bacancyPOD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  bacancyPOD: 014da35c67ccaaff49772955717187fbf8f381dd
+
+PODFILE CHECKSUM: 8d936fa2822e60ad85196d4d4f12beab8421f24f
+
+COCOAPODS: 1.13.0

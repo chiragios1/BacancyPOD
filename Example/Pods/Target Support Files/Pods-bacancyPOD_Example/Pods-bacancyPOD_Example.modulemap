@@ -1,0 +1,6 @@
+framework module Pods_bacancyPOD_Example {
+  umbrella header "Pods-bacancyPOD_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

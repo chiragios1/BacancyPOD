@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'bacancyPOD_Example' do
+  pod 'bacancyPOD', :path => '../'
+
+  target 'bacancyPOD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
